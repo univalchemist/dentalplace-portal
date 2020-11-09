@@ -1,0 +1,578 @@
+
+/*------------------------------------------------------------------
+[ login css ]*/
+input {
+	outline: none;
+	border: none;
+}
+tbody td a {
+    color: black;
+}
+tbody td  a:hover {
+    color: #0e0c28;
+    text-decoration: none;
+}
+textarea {
+  outline: none;
+  border: none;
+}
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 0rem !important;
+    padding-left: 0rem !important;
+}
+.navbar {
+    padding: .5rem 0rem !important;
+}
+a.nav-link {
+    width: 200px !important;
+}
+
+/*---------------------------------------------*/
+button {
+	outline: none !important;
+	border: none;
+	background: transparent;
+}
+
+button:hover {
+	cursor: pointer;
+}
+
+iframe {
+	border: none !important;
+}
+
+.limiter {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.limiter .container {
+    max-width: 1360px;
+}
+
+/*.wrap-login100 {
+    width: 430px;
+    background: #fff;
+    border-radius: 27px;
+    overflow: hidden;
+    padding: 80px 70px 80px 70px;
+    box-shadow:0 3px 20px 0 rgba(0,0,0,.1);
+    float: right;
+    
+}*/
+.wrap-login100 {
+    border-radius: 27px;
+    padding: 40px 70px 40px 70px;
+    float: right;
+    background-image: url(../img/vendorUntitled-2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;width: 420px;
+}
+.login100-form-title img {
+    width: 200px;
+}
+.login100-form img {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 30px;    
+}
+
+.login100-form {
+  width: 100%;
+}
+
+.login100-form-title {
+  display: block;
+  font-family: 'Fira Sans';
+font-size: 30px;
+  color: #333333;
+  line-height: 1.2;
+  text-align: center;
+  margin-bottom: 70px;
+}
+.login100-form-title i {
+  font-size: 60px;
+}
+
+
+
+.wrap-input100 {
+  width: 100%;
+  position: relative;
+  border-bottom: 1.5px solid #819cb6;
+  margin-bottom: 10px;
+}
+
+.input100 {
+  font-family: 'Fira Sans';
+  font-size: 15px;
+  color: #9cb1c2;
+  line-height: 1.2;
+
+  display: block;
+  width: 100%;
+  height: 50px;
+  background: transparent;
+  padding: 0 0 0 30px;
+}
+.focus-input100 ::placeholder {
+    color: #333 !important;
+}
+.focus-input100 {
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+}
+
+.focus-input100::before {
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+
+  -webkit-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  transition: all 0.4s;
+
+  background: #0e0c28;
+  background: linear-gradient(left, #21d4fd, #b721ff);
+}
+
+
+span.btn-show-pass i {
+    color: #0e0c28;
+}
+.focus-input100::after {
+   font-family: 'Fira Sans';
+  font-size: 15px;
+  color: #0e0c28;
+  line-height: 1.2;
+
+  content: attr(data-placeholder);
+  display: block;
+  width: 100%;
+  position: absolute;
+  top: 16px;
+  left: 0px;
+  padding-left: 5px;
+
+  transition: all 0.4s;
+}
+
+.input100:focus + .focus-input100::after {
+  top: -15px;
+}
+
+.input100:focus + .focus-input100::before {
+  width: 100%;
+}
+
+.has-val.input100 + .focus-input100::after {
+  top: -15px;
+}
+
+.has-val.input100 + .focus-input100::before {
+  width: 100%;
+}
+
+/*---------------------------------------------*/
+.btn-show-pass {
+  font-size: 15px;
+  color: #999999;
+
+  display: flex;
+  align-items: center;
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+  padding-right: 5px;
+  cursor: pointer;
+  transition: all 0.4s;
+}
+
+.btn-show-pass:hover {
+  color: #6a7dfe;
+  color: linear-gradient(left, #21d4fd, #b721ff);
+}
+
+.btn-show-pass.active {
+  color: #6a7dfe;
+  color: linear-gradient(left, #21d4fd, #b721ff);
+}
+
+
+
+/*------------------------------------------------------------------
+[ Button ]*/
+.container-login100-form-btn {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.wrap-login100-form-btn {
+    width: 90%;
+    display: block;
+    position: relative;
+    z-index: 1;
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 0 auto;
+    padding: 5px 0 6px 0;
+}
+
+.login100-form-bgbtn {
+  position: absolute;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    background: #27afa2;
+    top: 0;
+    left: 0;
+    transition: all 0.4s;
+    border-radius: 0 !important;
+}
+.text-right.p-t-8.p-b-31 a {
+    color: #0075aa !important;
+        position: relative;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    font-size: 18px;
+    font-weight: 500;
+	 font-family: 'Fira Sans';
+}
+.login100-form-btn {
+  font-family: 'Fira Sans';
+  font-size: 15px;
+  color: #fff;
+  line-height: 1.2;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 20px;
+ width: 50%;
+    height: 50px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.wrap-login100-form-btn:hover .login100-form-bgbtn {
+  left: 0;
+}
+form.login100-form.validate-form h1 {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Fira Sans';
+    font-weight: 600;
+	margin-bottom: 40px;
+}
+
+@media (max-width: 576px) {
+  .wrap-login100 {
+    padding: 77px 15px 33px 15px;
+	width: 100%;
+  }
+}
+
+.validate-input {
+  position: relative;
+}
+
+.alert-validate::before {
+  content: attr(data-validate);
+  position: absolute;
+  max-width: 70%;
+  background-color: #fff;
+  border: 1px solid #c80000;
+  border-radius: 2px;
+  padding: 4px 25px 4px 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 0px;
+  pointer-events: none;
+
+   font-family: 'Fira Sans';
+  color: #c80000;
+  font-size: 13px;
+  line-height: 1.4;
+  text-align: left;
+
+  visibility: hidden;
+  opacity: 0;
+
+  transition: opacity 0.4s;
+}
+
+.alert-validate::after {
+  content: "\f06a";
+  font-family: FontAwesome;
+  font-size: 16px;
+  color: #c80000;
+
+  display: block;
+  position: absolute;
+  background-color: #fff;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 5px;
+}
+
+.alert-validate:hover:before {
+  visibility: visible;
+  opacity: 1;
+}
+.login-form {
+    background-image: url('../img/web1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 100vh;    background-position: center;
+	display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.validate-input {
+    position: relative;
+    font-size: 16px;
+    color: #333;
+    line-height: 1.2;
+    display: block;
+    width: 100%;
+    height: 45px;
+    background: 0 0;
+    padding-top: 8px;font-family: 'Fira Sans' ;
+
+}.focus-input100 i {
+    position: absolute;
+    height: calc(100% - 20px);
+    bottom: 0;
+    left: 0;
+      color: #9cb1c2;
+}.text-right.p-t-8.p-b-31 {
+    margin: 40px 0 40px;
+	font-family: 'Fira Sans';
+
+}
+input.input100::placeholder {
+    color: #9cb1c2;
+    font-size: 18px;
+}
+
+button.login100-form-btn {
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-family: 'Fira Sans';
+}
+
+
+/*------------------------------------------------------------------
+[ login css end ]*/
+
+
+/*------------------------------------------------------------------
+[ recover  css  ]*/
+
+.recover_text h1 {
+    font-size: 20px !important;
+    color: #597b9e;font-family: 'Fira Sans' ;
+}
+
+.recover_sec .wrap-login100-form-btn {
+    margin-top: 30px;
+}
+.recover_texts a {
+    font-weight: 600;
+
+	    color: #0075aa;
+    font-size: 18px;font-family: 'Fira Sans' ;
+}
+.recover_texts p {
+    font-size: 18px;
+    color: #233040;
+    font-weight: 400;
+    margin-bottom:0px;font-family: 'Fira Sans' ;
+}.recover_texts {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.vendor_sec .wrap-input100.validate-input.m-b-23 img {
+    position: absolute;
+    left: 0;
+    top: 26px;
+}
+
+.vendor_sec .wrap-login100 {
+    padding: 40px 70px;
+}
+
+.text-right.p-t-8.p-b-31 a:before {
+    height: 2px;
+    position: absolute;
+    content: "";
+    display: block;
+    border-bottom: 2px solid #0075aa !important;
+    margin: 0px auto;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 160px;
+    margin-top: 23px !important;
+    top: 0;
+}.text-right.p-t-8.p-b-31 a:hover {
+    text-decoration: none;
+}
+ .wrap-input100.validate-input.m-b-23 img {
+    position: absolute;
+    left: 0;
+    top: 26px;
+}
+.rmember p {
+    text-align: center;
+    color: #233040;
+}.rmember h1 {
+    margin-bottom: 0 !important;
+}.rmember a {
+    color: #000;
+    font-weight: bold;
+}
+.rmember .recover_texts a {
+    color: #0075aa;
+	font-size:18px;
+	font-weight:600;
+}.code_sec p {
+    color: #597b9e;
+    font-size: 17px;
+    font-weight: 500;    margin-bottom: 20px;
+}
+.rmember .wrap-login100-form-btn {
+    margin-top: 0;
+}
+.rmember .recover_texts {
+    margin-top: 20px;
+}
+.rmember .wrap-input100.validate-input.m-b-23 {
+    height: 24px;
+
+}
+
+.rmember .login100-form-title {
+    margin-bottom: 40px;
+}
+
+.rmember .input100 {
+    height: 10px;
+}
+.recover_text h1 {
+    padding-bottom: 10px;
+}
+.rmember input.input100::placeholder {
+    text-align: center;
+	font-size:30px;
+	letter-spacing:4px;
+	color:#9cb1c2;
+}
+
+ 
+ .otp-wrapper {
+	text-align:center;
+	border-bottom: 1.5px solid #9cb1c2;
+}
+
+.otp-container .otp-number-input::placeholder {
+    position: relative;
+    top: 5px;
+    font-weight: 200;
+    font-size: 22px !important;
+    padding: 0;
+    margin: 0;
+    color: #9cb1c2 !important;
+}
+.otp-container {
+	display: inline-block;
+}
+
+.otp-submit {
+	background: #42b549;
+	border:0;
+	color: #fff;
+	margin-top:30px;
+	padding:10px 15px;
+	font-size: 14px;
+	border-radius: 3px;
+	letter-spacing:1px;
+	font-weight:500;
+	cursor: pointer;
+	&[disabled]{
+		opacity:0.6;
+		cursor: default;
+	}
+}
+.otp-container .otp-number-input.otp-filled-active {
+    border-color: #9cb1c2;
+}
+
+.otp-container .otp-number-input {
+    width: 10px;
+    font-weight: 600;text-align: center;
+}
+.code_sec {
+    margin-top: 10px;
+}
+
+
+.rmember .wrap-login100-form-btn {
+    width: 100%;
+    padding: 4px 0 6px 0;
+}
+.goback_texts p {
+    color: #9cb1c2;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 30px;
+}.goback_texts a {
+    color: #9cb1c2;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 30px;
+}
+.createpassword_sec .container-login100-form-btn {
+    margin-top: 50px;
+}
+.createpassword_sec .recover_texts {
+    text-align: center;
+    margin-top: 80px;
+}
+.createpassword_sec .recover_texts a {
+    font-weight: 600;
+    color: #9cb1c2;
+    font-size: 18px;
+    font-family: 'Fira Sans';
+}
+.createpassword_sec .wrap-login100-form-btn {
+    width: 100%;
+}
+
+/*-------------responsive css----------------*/
+@media only screen and (max-width: 1024px) and (min-width: 768px) {
+.wrap-login100 {
+    margin-right: 50px;
+}
+}

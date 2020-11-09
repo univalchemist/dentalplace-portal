@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62149258-867f-4f87-8975-d0e7c470176f" name="Default Changelist" comment="Prod release added cancel booking function for vendor.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/models/AdminModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/models/AdminModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/models/VendorModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/models/VendorModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/vendor/vendor_chat.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/vendor/vendor_chat.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gguuKtfmVIAuXXc1ihc710Gq0M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/application/libraries" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8000">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62149258-867f-4f87-8975-d0e7c470176f" name="Default Changelist" comment="" />
+      <created>1598548777548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598548777548</updated>
+      <workItem from="1598548778657" duration="3760000" />
+      <workItem from="1598611339157" duration="9681000" />
+      <workItem from="1598809129252" duration="2037000" />
+      <workItem from="1598841485047" duration="622000" />
+      <workItem from="1599224585957" duration="624000" />
+      <workItem from="1599234421334" duration="927000" />
+      <workItem from="1599400474952" duration="2567000" />
+      <workItem from="1599497350028" duration="12272000" />
+      <workItem from="1599548119321" duration="3705000" />
+      <workItem from="1599619355232" duration="13761000" />
+      <workItem from="1599797897533" duration="1223000" />
+      <workItem from="1600029957408" duration="69000" />
+      <workItem from="1600099882573" duration="597000" />
+      <workItem from="1600265212280" duration="7103000" />
+      <workItem from="1600781825093" duration="26000" />
+      <workItem from="1600967529733" duration="2927000" />
+      <workItem from="1601582661800" duration="748000" />
+      <workItem from="1601663830623" duration="1796000" />
+      <workItem from="1601819012160" duration="77000" />
+      <workItem from="1601819125459" duration="10000" />
+      <workItem from="1601819208948" duration="16000" />
+      <workItem from="1601819844564" duration="13949000" />
+      <workItem from="1601940726271" duration="5000" />
+      <workItem from="1602176311004" duration="4427000" />
+      <workItem from="1602516073287" duration="3656000" />
+      <workItem from="1602521832156" duration="6459000" />
+      <workItem from="1602610356349" duration="10920000" />
+      <workItem from="1602687184178" duration="15134000" />
+      <workItem from="1602871401584" duration="23000" />
+      <workItem from="1602871439403" duration="109000" />
+      <workItem from="1602871678881" duration="48613000" />
+      <workItem from="1603422716394" duration="2992000" />
+      <workItem from="1603490837564" duration="10027000" />
+      <workItem from="1603750396503" duration="6868000" />
+      <workItem from="1603923689826" duration="3275000" />
+    </task>
+    <task id="LOCAL-00001" summary="Prod update">
+      <created>1602522259854</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602522259854</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Prod update">
+      <created>1602522796245</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602522796245</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Prod update">
+      <created>1602523040003</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602523040003</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Prod update">
+      <created>1602523298288</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602523298288</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Prod update">
+      <created>1602523918805</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602523918805</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Prod update. Display correct login methods on admin user dashboard.">
+      <created>1602604154946</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602604154946</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Done with the new chat page with minor UI fixes remaining.">
+      <created>1603162712558</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603162712558</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added base URL.">
+      <created>1603168854390</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603168854390</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Prod release.">
+      <created>1603168985182</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603168985182</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Prod release.">
+      <created>1603169151174</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603169151174</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Prod release.">
+      <created>1603169455377</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603169455377</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Prod release.">
+      <created>1603200757372</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1603200757372</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Prod release.">
+      <created>1603201314561</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1603201314561</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Prod release.">
+      <created>1603201839063</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1603201839063</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Prod release.">
+      <created>1603203448163</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1603203448163</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Prod release updated chat response formats.">
+      <created>1603534879805</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1603534879805</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Prod release added cancel booking function for vendor.">
+      <created>1603769726587</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1603769726587</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Prod update" />
+    <MESSAGE value="Prod update. Display correct login methods on admin user dashboard." />
+    <MESSAGE value="Done with the new chat page with minor UI fixes remaining." />
+    <MESSAGE value="Added base URL." />
+    <MESSAGE value="Prod release." />
+    <MESSAGE value="Prod release updated chat response formats." />
+    <MESSAGE value="Prod release added cancel booking function for vendor." />
+    <option name="LAST_COMMIT_MESSAGE" value="Prod release added cancel booking function for vendor." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="769" y="400" width="444" height="249" key="#Composer" timestamp="1598548869649">
+      <screen x="72" y="27" width="1848" height="988" />
+    </state>
+    <state x="769" y="400" width="444" height="249" key="#Composer/72.27.1848.988@72.27.1848.988" timestamp="1598548869649" />
+    <state x="454" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599505795691">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="454" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.948@72.27.1848.948" timestamp="1599505795691" />
+    <state x="1601" y="489" width="424" height="520" key="FileChooserDialogImpl" timestamp="1601845929205">
+      <screen x="72" y="27" width="4024" height="1895" />
+    </state>
+    <state x="774" y="258" key="FileChooserDialogImpl/72.27.1848.948@72.27.1848.948" timestamp="1599662051392" />
+    <state x="774" y="268" width="424" height="520" key="FileChooserDialogImpl/72.27.1848.988@72.27.1848.988" timestamp="1598550802055" />
+    <state x="1601" y="489" key="FileChooserDialogImpl/72.27.4024.1895@72.27.4024.1895" timestamp="1601845929205" />
+    <state x="662" y="240" width="657" height="568" key="NewPhpClassDialog" timestamp="1598629653915">
+      <screen x="72" y="27" width="1848" height="988" />
+    </state>
+    <state x="662" y="240" width="657" height="568" key="NewPhpClassDialog/72.27.1848.988@72.27.1848.988" timestamp="1598629653915" />
+    <state x="792" y="895" width="399" height="156" key="NewPhpFileDialog" timestamp="1602708994684">
+      <screen x="72" y="27" width="3768" height="1895" />
+    </state>
+    <state x="792" y="895" key="NewPhpFileDialog/72.27.3768.1895@72.27.3768.1895" timestamp="1602708994684" />
+    <state x="841" y="895" width="399" height="156" key="NewPhpFileDialog/72.27.4024.1895@72.27.4024.1895" timestamp="1601820200754" />
+    <state x="1493" y="738" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603769730614">
+      <screen x="72" y="27" width="3768" height="1895" />
+    </state>
+    <state x="1493" y="738" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.3768.1895@72.27.3768.1895" timestamp="1603769730614" />
+    <state x="172" y="127" width="1648" height="748" maximized="true" key="dock-window-1" timestamp="1599504559292">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="172" y="127" width="1648" height="748" maximized="true" key="dock-window-1/72.27.1848.948@72.27.1848.948" timestamp="1599504559292" />
+    <state x="544" y="279" width="2385" height="1332" key="find.popup" timestamp="1603928249365">
+      <screen x="72" y="27" width="3768" height="1895" />
+    </state>
+    <state x="690" y="250" width="1169" height="666" key="find.popup/72.27.1848.948@72.27.1848.948" timestamp="1600971418706" />
+    <state x="687" y="260" width="996" height="694" key="find.popup/72.27.1848.988@72.27.1848.988" timestamp="1598626081419" />
+    <state x="544" y="279" width="2385" height="1332" key="find.popup/72.27.3768.1895@72.27.3768.1895" timestamp="1603928249365" />
+    <state x="1418" y="471" width="2546" height="1332" key="find.popup/72.27.4024.1895@72.27.4024.1895" timestamp="1602191152063" />
+    <state x="668" y="467" width="672" height="678" key="search.everywhere.popup" timestamp="1603766472714">
+      <screen x="72" y="27" width="3768" height="1895" />
+    </state>
+    <state x="668" y="467" width="672" height="678" key="search.everywhere.popup/72.27.3768.1895@72.27.3768.1895" timestamp="1603766472714" />
+    <state x="709" y="467" width="672" height="678" key="search.everywhere.popup/72.27.4024.1895@72.27.4024.1895" timestamp="1601839728728" />
+  </component>
+</project>

@@ -1,0 +1,47 @@
+[06-Mar-2020 13:23:48 UTC] PHP Fatal error:  Cannot redeclare VendorModel::vendermodelfun() in /home/a1pro/public_html/dental-place/application/models/VendorModel.php on line 26
+[06-Mar-2020 13:23:49 UTC] PHP Fatal error:  Cannot redeclare VendorModel::vendermodelfun() in /home/a1pro/public_html/dental-place/application/models/VendorModel.php on line 26
+[13-Mar-2020 05:14:58 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/a1pro/public_html/dental-place/application/controllers/Admin.php on line 148
+[16-Mar-2020 10:55:07 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/a1pro/public_html/dental-place/application/views/admin/userdashboard.php on line 115
+[17-Mar-2020 05:17:17 UTC] PHP Fatal error:  Cannot use [] for reading in /home/a1pro/public_html/dental-place/application/views/admin/vendordashboard.php on line 114
+[18-Mar-2020 13:02:16 UTC] PHP Fatal error:  Cannot redeclare Admin::pushnotification() in /home/a1pro/public_html/dental-place/application/controllers/Admin.php on line 232
+[18-Mar-2020 13:02:19 UTC] PHP Fatal error:  Cannot redeclare Admin::pushnotification() in /home/a1pro/public_html/dental-place/application/controllers/Admin.php on line 232
+[18-Mar-2020 13:02:24 UTC] PHP Fatal error:  Cannot redeclare Admin::pushnotification() in /home/a1pro/public_html/dental-place/application/controllers/Admin.php on line 232
+[18-Mar-2020 13:02:27 UTC] PHP Fatal error:  Cannot redeclare Admin::pushnotification() in /home/a1pro/public_html/dental-place/application/controllers/Admin.php on line 232
+[18-Mar-2020 13:02:34 UTC] PHP Fatal error:  Cannot redeclare Admin::pushnotification() in /home/a1pro/public_html/dental-place/application/controllers/Admin.php on line 232
+[18-Mar-2020 13:02:42 UTC] PHP Fatal error:  Cannot redeclare Admin::pushnotification() in /home/a1pro/public_html/dental-place/application/controllers/Admin.php on line 232
+[18-Mar-2020 13:02:47 UTC] PHP Fatal error:  Cannot redeclare Admin::pushnotification() in /home/a1pro/public_html/dental-place/application/controllers/Admin.php on line 232
+[18-Mar-2020 13:02:47 UTC] PHP Fatal error:  Cannot redeclare Admin::pushnotification() in /home/a1pro/public_html/dental-place/application/controllers/Admin.php on line 232
+[18-Mar-2020 13:02:47 UTC] PHP Fatal error:  Cannot redeclare Admin::pushnotification() in /home/a1pro/public_html/dental-place/application/controllers/Admin.php on line 232
+[18-Mar-2020 13:02:47 UTC] PHP Fatal error:  Cannot redeclare Admin::pushnotification() in /home/a1pro/public_html/dental-place/application/controllers/Admin.php on line 232
+[18-Mar-2020 13:04:50 UTC] PHP Fatal error:  Cannot redeclare Admin::pushnotification() in /home/a1pro/public_html/dental-place/application/controllers/Admin.php on line 232
+[18-Mar-2020 13:04:51 UTC] PHP Fatal error:  Cannot redeclare Admin::pushnotification() in /home/a1pro/public_html/dental-place/application/controllers/Admin.php on line 232
+[18-Mar-2020 13:04:54 UTC] PHP Fatal error:  Cannot redeclare Admin::pushnotification() in /home/a1pro/public_html/dental-place/application/controllers/Admin.php on line 232
+[18-Mar-2020 13:04:56 UTC] PHP Fatal error:  Cannot redeclare Admin::pushnotification() in /home/a1pro/public_html/dental-place/application/controllers/Admin.php on line 232
+[24-Mar-2020 07:35:57 UTC] PHP Fatal error:  Cannot redeclare AdminModel::displayuserrecords() in /home/a1pro/public_html/dental-place/application/models/AdminModel.php on line 83
+[24-Mar-2020 07:53:27 UTC] PHP Warning:  Unterminated comment starting line 88 in /home/a1pro/public_html/dental-place/application/controllers/Vendor_Controller.php on line 88
+[24-Mar-2020 07:58:49 UTC] PHP Warning:  Unterminated comment starting line 88 in /home/a1pro/public_html/dental-place/application/controllers/Vendor_Controller.php on line 88
+[24-Mar-2020 08:10:51 UTC] PHP Warning:  Unterminated comment starting line 88 in /home/a1pro/public_html/dental-place/application/controllers/Vendor_Controller.php on line 88
+[02-Apr-2020 05:31:51 UTC] PHP Fatal error:  Cannot use [] for reading in /home/a1pro/public_html/dental-place/application/views/vendor/vendor_profile.php on line 139
+[02-Apr-2020 05:31:57 UTC] PHP Fatal error:  Cannot use [] for reading in /home/a1pro/public_html/dental-place/application/views/vendor/vendor_profile.php on line 139
+[03-Apr-2020 07:07:13 UTC] PHP Fatal error:  Cannot redeclare AdminModel::category() in /home/a1pro/public_html/dental-place/application/models/AdminModel.php on line 357
+[07-Apr-2020 06:38:51 UTC] PHP Fatal error:  Cannot use [] for reading in /home/a1pro/public_html/dental-place/application/views/vendor/vendor_profile.php on line 153
+[07-Apr-2020 06:38:53 UTC] PHP Fatal error:  Cannot use [] for reading in /home/a1pro/public_html/dental-place/application/views/vendor/vendor_profile.php on line 153
+[07-Apr-2020 12:17:40 UTC] PHP Fatal error:  Cannot use [] for reading in /home/a1pro/public_html/dental-place/application/controllers/Admin.php on line 175
+[11-Apr-2020 06:06:14 UTC] PHP Fatal error:  Cannot redeclare VendorModel::viewSer() in /home/a1pro/public_html/dental-place/application/models/VendorModel.php on line 211
+[20-Apr-2020 06:46:47 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/a1pro/public_html/dental-place/application/views/admin/userdashboard.php on line 117
+[23-Apr-2020 13:18:08 UTC] PHP Fatal error:  Cannot redeclare VendorModel::check() in /home/a1pro/public_html/dental-place/application/models/VendorModel.php on line 409
+[24-Apr-2020 10:20:40 UTC] PHP Fatal error:  Cannot redeclare VendorModel::editProfile() in /home/a1pro/public_html/dental-place/application/models/VendorModel.php on line 420
+[13-May-2020 05:23:24 UTC] PHP Warning:  Unterminated comment starting line 112 in /home/a1pro/public_html/dental-place/application/models/VendorModel.php on line 112
+[13-May-2020 05:23:24 UTC] PHP Warning:  Unterminated comment starting line 152 in /home/a1pro/public_html/dental-place/application/models/VendorModel.php on line 152
+[13-May-2020 05:23:25 UTC] PHP Warning:  Unterminated comment starting line 152 in /home/a1pro/public_html/dental-place/application/models/VendorModel.php on line 152
+[13-May-2020 05:23:26 UTC] PHP Warning:  Unterminated comment starting line 152 in /home/a1pro/public_html/dental-place/application/models/VendorModel.php on line 152
+[13-May-2020 05:23:26 UTC] PHP Warning:  Unterminated comment starting line 152 in /home/a1pro/public_html/dental-place/application/models/VendorModel.php on line 152
+[13-May-2020 05:23:26 UTC] PHP Warning:  Unterminated comment starting line 152 in /home/a1pro/public_html/dental-place/application/models/VendorModel.php on line 152
+[13-May-2020 05:25:12 UTC] PHP Warning:  Unterminated comment starting line 153 in /home/a1pro/public_html/dental-place/application/models/VendorModel.php on line 153
+[13-May-2020 05:25:14 UTC] PHP Warning:  Unterminated comment starting line 153 in /home/a1pro/public_html/dental-place/application/models/VendorModel.php on line 153
+[13-May-2020 05:25:14 UTC] PHP Warning:  Unterminated comment starting line 153 in /home/a1pro/public_html/dental-place/application/models/VendorModel.php on line 153
+[13-May-2020 05:25:14 UTC] PHP Warning:  Unterminated comment starting line 153 in /home/a1pro/public_html/dental-place/application/models/VendorModel.php on line 153
+[13-May-2020 05:25:15 UTC] PHP Warning:  Unterminated comment starting line 261 in /home/a1pro/public_html/dental-place/application/models/VendorModel.php on line 261
+[13-May-2020 05:25:16 UTC] PHP Warning:  Unterminated comment starting line 261 in /home/a1pro/public_html/dental-place/application/models/VendorModel.php on line 261
+[13-May-2020 05:25:16 UTC] PHP Warning:  Unterminated comment starting line 261 in /home/a1pro/public_html/dental-place/application/models/VendorModel.php on line 261
+[13-May-2020 05:25:35 UTC] PHP Warning:  Unterminated comment starting line 112 in /home/a1pro/public_html/dental-place/application/models/VendorModel.php on line 112
